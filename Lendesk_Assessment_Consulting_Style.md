@@ -36,7 +36,7 @@ Below is a concise breakdown of the most important issues.
 
 ---
 
-## Detailed Findings (Condensed)
+## Detailed Findings 
 
 ### 1. JWT Validation Not Performed (Critical)
 
