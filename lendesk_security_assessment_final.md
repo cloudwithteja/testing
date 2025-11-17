@@ -34,18 +34,25 @@ The most serious problem is that the application **does not actually validate JW
 
 To understand the security posture of the application, I used:
 
-- Manual code review
+- Manual code review and curl
+ <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/3c257cb3-0d5f-438f-bb1f-f495206a6c7c" />
+
+ <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/5bdd347c-e98e-48d1-aa0c-bc9567b2c02e" />
+
+
 - Snyk
-- Dependency-check
+  
+ <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/52bb5255-bef9-4038-888d-1523d3387ba7" />
+
+- Dependency-check 
   
   <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/3d86da2a-9d94-41ab-bea4-ac2d742d3af9" />
 
 - Semgrep
 
-<img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/d882eb5f-6f71-4d25-a3a4-f1a9d75f4f41" />
+ <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/d882eb5f-6f71-4d25-a3a4-f1a9d75f4f41" />
 
-- Static analysis patterns  
-- Dependency and config file review  
+- Static analysis patterns   
 - Authentication/authorization testing  
 - Error handling verification  
 - CORS and middleware behavior review  
