@@ -52,7 +52,10 @@ To understand the security posture of the application, I used:
 
  <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/d882eb5f-6f71-4d25-a3a4-f1a9d75f4f41" />
 
-- Static analysis patterns   
+- Static analysis patterns
+- npm audit
+  <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/92b050e9-920f-4c1d-b48f-4ba6edbc7639" />
+  
 - Authentication/authorization testing  
 - Error handling verification  
 - CORS and middleware behavior review  
