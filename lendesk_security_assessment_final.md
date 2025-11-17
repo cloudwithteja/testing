@@ -37,6 +37,8 @@ To understand the security posture of the application, I used:
 - Manual code review
 - Snyk
 - Dependency-check
+  <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/3d86da2a-9d94-41ab-bea4-ac2d742d3af9" />
+
 - Semgrep 
 - Static analysis patterns  
 - Dependency and config file review  
