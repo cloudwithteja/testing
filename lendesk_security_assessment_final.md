@@ -31,7 +31,10 @@ The most serious problem is that the application **does not actually validate JW
 
 To understand the security posture of the application, I used:
 
-- Manual code review  
+- Manual code review
+- Snyk
+- Dependency-check
+- Semgrep 
 - Static analysis patterns  
 - Dependency and config file review  
 - Authentication/authorization testing  
