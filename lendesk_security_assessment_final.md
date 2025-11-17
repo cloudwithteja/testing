@@ -13,6 +13,8 @@
 This assessment takes a close look at a simple Notes API built with Node.js and TypeScript. Although the application functions correctly, it contains several major security weaknesses — including multiple critical issues — that compromise authentication and give attackers full control over user data.
 
 I reviewed the code, followed the logic behind authentication and note storage, and tested the API’s behavior when interacting with login, user creation, and note retrieval flows.
+<img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/6092a316-849b-4393-9f6f-e7384f98f996" />
+
 <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/a2aad997-8f24-4a70-ba07-7d473da3cad6" />
 
 **Overall Results:**
@@ -219,8 +221,7 @@ The good news: these issues are straightforward to fix. Addressing the critical 
 
 ---
 
-**Prepared by:**  
-**Sai Teja Bandi**  
+**Prepared by:**  **Sai Teja Bandi**  
 **Date:** November 17, 2025  
 **Classification:** Confidential
 
