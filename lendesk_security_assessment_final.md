@@ -57,7 +57,11 @@ To understand the security posture of the application, I used:
 
   <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/92b050e9-920f-4c1d-b48f-4ba6edbc7639" />
   
-- Authentication/authorization testing  
+- Authentication/authorization testing
+- ZAP Scan
+  
+  <img width="500" height="135" alt="image" src="https://github.com/user-attachments/assets/0695ded7-0c22-4c7a-a292-adb95faf0c10" />
+
 - Error handling verification  
 - CORS and middleware behavior review  
 
