@@ -1,7 +1,7 @@
 
 # Lendesk Security Challenge – Web Application Security Assessment
 
-**Assessment Date:** November 17, 2025  
+**Assessment Date:** November 18, 2025  
 **Assessor:** Sai Teja Bandi  
 **Application Tested:** Node.js / TypeScript Notes Management API  
 **Version:** 1.0.0
@@ -244,6 +244,6 @@ The good news: these issues are straightforward to fix. Addressing the critical 
 ---
 
 **Prepared by:**  **Sai Teja Bandi**  
-**Date:** November 17, 2025  
+**Date:** November 18, 2025  
 **Classification:** Confidential
 
